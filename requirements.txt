@@ -1,0 +1,9 @@
+streamlit
+langchain>=0.2.0
+langchain-core
+langchain-community
+langchain-huggingface
+huggingface_hub
+sentence-transformers
+faiss-cpu
+torch
